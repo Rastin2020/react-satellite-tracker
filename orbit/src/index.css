@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can keep your custom CSS below this if you want, or just leave it empty */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  background: #000; /* nice dark background for space */
+}
